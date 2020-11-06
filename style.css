@@ -215,6 +215,12 @@ nav {
   background-size: cover;
 }
 
+#project4 .tile-thumbnail {
+  background: url(./img/counter-thumbnail.PNG);
+  background-position: center;
+  background-size: cover;
+}
+
 
 /* Contact */
 
